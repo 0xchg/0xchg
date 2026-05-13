@@ -1,15 +1,14 @@
 <div align="center">
 
 # Márcio Chingi · 0xchg
-Software engineering student · 42 Luanda · Angola
+Programming and System Administration · 42 Luanda · Angola
 </div>
 
 ---
  
 ### About
  
-Cadet at **42** since May 2024, grinding through the common core.
-Currently working proficiently in **C/C++** — and pulling Go into the mix soon..
+Cadet at **42** since May 2024.
  
 ---
  
