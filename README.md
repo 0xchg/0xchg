@@ -1,6 +1,6 @@
 <div align="center">
 
-# Márcio Chingi · 0xchg
+# Márcio Chingi · 0xchg · mchingi
 Programming and System Administration · 42 Luanda · Angola
 </div>
 
